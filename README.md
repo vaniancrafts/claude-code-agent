@@ -1,4 +1,4 @@
-# Claude Code Haha
+# Claude Code 蜜獾Agent
 
 基于 Claude Code 泄露源码修复的**本地可运行版本**，支持接入任意 Anthropic 兼容 API（如 MiniMax、OpenRouter 等）。
 
